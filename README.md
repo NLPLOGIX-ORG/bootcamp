@@ -3,7 +3,7 @@ Throughout the next five weeks, we will be introducing some basic ideas of Data 
 
 - Anaconda (Python Eviornment)
 - VS Code (Programming Enviornment)
-- Tableau (Data visulization Software)
+- Tableau (Data visualization Software)
 
 ## Schedule
 
@@ -28,7 +28,7 @@ Jupyter is a way to deploy python code to a web page along with markdown languag
 Open Jupyter Notebook by following the steps [here.](https://docs.anaconda.com/anaconda/user-guide/getting-started/#run-python-in-a-jupyter-notebook)
 
 ## Tableau
-Tableau is a well known data visulization tool that can be used on a variety of different datasets. This will allow you to use the data in order to create
+Tableau is a well known data visualization tool that can be used on a variety of different datasets. This will allow you to use the data in order to create
 graphs, chart, maps, etc. in order to better visualize your data, and identify coorelations and trends.
 
 Steps to install Tableau are included [here.](https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_download_and_install.htm)
